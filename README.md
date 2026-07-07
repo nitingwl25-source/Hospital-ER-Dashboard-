@@ -204,20 +204,19 @@ Data transformation was performed using Power Query, including:
 
 ## 📅 Monthly View
 
-![Monthly View](Images/hospital_bi.PNG)
+![Monthly View](hospital_bi.PNG)
 
 ---
 
 ## 📊 Consolidated View
 
-![Consolidated View](Images/consolidated.PNG)
+![Consolidated View](consolidated.PNG)
 
 ---
 
 ## 👨‍⚕️ Patient Details
 
-![Patient Details](Images/patients.PNG)
-
+![Patient Details](patients.PNG)
 ---
 
 # 📁 Repository Structure
