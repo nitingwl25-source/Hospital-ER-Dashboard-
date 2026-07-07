@@ -202,21 +202,21 @@ Data transformation was performed using Power Query, including:
 
 # 📸 Dashboard Preview
 
-## Monthly View
+## 📅 Monthly View
 
-hospital_bi.PNG
-
----
-
-## Consolidated View
-
-consolidated.PNG
+![Monthly View](Images/hospital_bi.PNG)
 
 ---
 
-## Patient Details
+## 📊 Consolidated View
 
-patients.PNG
+![Consolidated View](Images/consolidated.PNG)
+
+---
+
+## 👨‍⚕️ Patient Details
+
+![Patient Details](Images/patients.PNG)
 
 ---
 
