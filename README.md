@@ -257,7 +257,7 @@ Hospital-ER-Dashboard/
 
 📧 Email: your-email@example.com
 
-🔗 LinkedIn: https://linkedin.com/in/your-profile
+🔗 LinkedIn: https://www.linkedin.com/in/nitinagarwal25/
 
 💻 GitHub: https://github.com/nitingwl25
 
