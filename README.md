@@ -204,19 +204,19 @@ Data transformation was performed using Power Query, including:
 
 ## Monthly View
 
-![Monthly View](Images/Monthly_View.png)
+hospital_bi.PNG
 
 ---
 
 ## Consolidated View
 
-![Consolidated View](Images/Consolidated_View.png)
+consolidated.PNG
 
 ---
 
 ## Patient Details
 
-![Patient Details](Images/Patient_Details.png)
+patients.PNG
 
 ---
 
