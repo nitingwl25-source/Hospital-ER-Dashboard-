@@ -255,7 +255,7 @@ Hospital-ER-Dashboard/
 
 **Nitin Agarwal**
 
-📧 Email: your-email@example.com
+📧 Email: nitingwl25@gmail.com
 
 🔗 LinkedIn: https://www.linkedin.com/in/nitinagarwal25/
 
